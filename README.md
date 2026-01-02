@@ -70,6 +70,20 @@ python app.py
 *   **`config/settings.json`**: Logging paths and settings.
 *   *Note: You rarely need to edit these manually; the GUI manages them for you.*
 
+## Screenshots
+
+### 🖥️ Dashboard & Device Management
+![Dashboard](gui/screenshots/GUI%20Dashboard%20USB%20Devices%20Tab.png)
+
+### 📜 Real-time Event Logs
+![Live Logs](gui/screenshots/Live%20Logs%20USB%20Event%20Monitoring.png)
+
+### 📂 File Activity Auditing
+![File Audit](gui/screenshots/File%20Activity%20Auditing%20Logs.png)
+
+### 📊 Generated Audit Reports
+![Report](gui/screenshots/Generated%20Audit%20Report.png)
+
 ## Project Structure
 
 ```
