@@ -1,0 +1,8 @@
+wmi
+pywin32
+watchdog
+psutil
+colorama
+python-dateutil
+customtkinter
+Pillow

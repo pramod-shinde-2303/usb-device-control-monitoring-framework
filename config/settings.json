@@ -1,0 +1,7 @@
+{
+    "log_usb_events": "logs/usb_events.log",
+    "log_file_activity": "logs/file_activity.log",
+    "log_alerts": "logs/alerts.log",
+    "report_file": "reports/final_usb_audit_report.txt",
+    "monitor_interval": 1
+}
